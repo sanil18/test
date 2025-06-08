@@ -1,113 +1,84 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://your-banner-image-link.gif" alt="RaptX Banner" width="100%">
-</p>
-
-<h1 align="center">🛡️ RaptX — Cybersecurity Collaboration & CTF Excellence</h1>
-
-<p align="center">
-  <em>Elite minds solving elite problems. We play hard, hack harder.</em><br/>
-  <strong>Ranked #37 on CTFtime • Top 30 Hack The Box</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CTFs%20Completed-58-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/CTFtime%20Rank-37-yellowgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/HackTheBox%20Team%20Rank-30-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Founded-2023-purple?style=flat-square" />
-</p>
-
----
-
-## 🚀 What We Do
-
-<table>
-  <tr>
-    <td><strong>🎯 Competitions</strong></td>
-    <td>We conquer CTF challenges on platforms like <strong>CTFtime</strong>, <strong>Hack The Box</strong>, and invite-only leagues.</td>
-  </tr>
-  <tr>
-    <td><strong>🛠️ Tool Development</strong></td>
-    <td>We build practical tools, scripts, and full-scale projects for red teaming, research, and real-world security problems.</td>
-  </tr>
-  <tr>
-    <td><strong>🤝 Team Events</strong></td>
-    <td>Focused hack sessions, debriefs, study groups, and informal hangouts to share skills and fuel creativity.</td>
-  </tr>
-</table>
-
----
-
-## 🔑 Why RaptX?
-
-<table>
-  <tr>
-    <td>🤝</td>
-    <td><strong>Tight-Knit Team Culture</strong><br/>We operate like a special ops unit — bonded by trust, passion, and brutal honesty.</td>
-  </tr>
-  <tr>
-    <td>🧠</td>
-    <td><strong>Growth-Obsessed</strong><br/>We're here to become lifelong cybersecurity leaders, not just win flags.</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Brutal Efficiency</strong><br/>Every solution is lean, clean, and impactful — because chaos wastes time.</td>
-  </tr>
-</table>
-
----
-
-## 🧪 Featured Projects
-
-| Tool | Description | Preview |
-|------|-------------|---------|
-| 🕵️‍♂️ **LFI Scanner** | Automated LFI detection and exploitation toolkit with payload injection support. | ![demo](https://your-lfi-gif.gif) |
-| 🔐 **CryptoCTF Gen** | Challenge generator for crypto CTFs using XOR, RNG, Caesar, and obfuscation. | ![demo](https://your-crypto-gif.gif) |
-| 📊 **PDF Diff Tool** | Visual diff tool for security questionnaires with grammar-check support. | ![demo](https://your-pdf-tool-gif.gif) |
-
----
-
-## 🎯 Stats & Milestones
-
 <div align="center">
-  
-<table>
-  <tr>
-    <td><strong>🏆 CTFtime Rank</strong></td>
-    <td><strong>#37</strong></td>
-  </tr>
-  <tr>
-    <td><strong>🔐 HackTheBox Rank</strong></td>
-    <td><strong>Top 30</strong></td>
-  </tr>
-  <tr>
-    <td><strong>👥 Team Members</strong></td>
-    <td>20+ core & contributors</td>
-  </tr>
-  <tr>
-    <td><strong>📅 Active Since</strong></td>
-    <td>2023</td>
-  </tr>
-</table>
+  <img src="https://github.com/RaptX-Org/RaptX-Org/blob/main/logo.png?raw=true" alt="RaptX Logo" width="200"/>
+  <h1>RaptX: Cybersecurity Collaboration & CTF Excellence 🚀</h1>
+  <p>Uniting security professionals and enthusiasts to conquer challenges, innovate, and advance collective expertise.</p>
 
+  <p>
+    <a href="https://ctftime.org/team/YOUR_CTFTIME_TEAM_ID">
+      <img src="https://img.shields.io/badge/CTFTime%20Rank-37-blue.svg?style=for-the-badge&logo=ctftime&logoColor=white" alt="CTFTime Rank"/>
+    </a>
+    <a href="https://www.hackthebox.com/team/YOUR_HTB_TEAM_ID">
+      <img src="https://img.shields.io/badge/HackTheBox%20Rank-30-brightgreen.svg?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox Rank"/>
+    </a>
+    <img src="https://img.shields.io/github/stars/RaptX-Org?style=for-the-badge&color=gold" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/followers/RaptX-Org?style=for-the-badge&color=purple" alt="GitHub Followers"/>
+  </p>
 </div>
 
 ---
 
-## 🤘 Join Us or Collaborate
+## 🌟 What We Do
 
-Whether you're a CTF wizard, red teamer, researcher, or just starting your journey — we’re always open to **collaboration and conversation**.
+At RaptX, we're not just about solving problems; we're about pioneering solutions and fostering a vibrant community.
 
-- 📧 Email us: [raptx@protonmail.com](mailto:raptx@protonmail.com)
-- 🛠️ Want to contribute? Fork this repo or open an issue
-- 💬 Follow our CTF writeups, tools, and research [coming soon!]
+### 🏆 Competitions: The Thrill of the Hunt
+We actively participate in leading cybersecurity competitions, pushing our limits and honing our skills on platforms like:
+* **HackTheBox:** Mastering real-world exploitation scenarios.
+* **CTF Time:** Dominating Capture The Flag events across the globe.
+* ...and beyond! Always seeking the next challenge.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="300px" alt="Hacker Animation">
-</p>
+### 🛠️ Tool Development: Building the Future
+We believe in giving back to the community and empowering ourselves with bespoke solutions. Our initiatives include:
+* **Practical Scripts:** Crafting efficient tools for everyday security tasks.
+* **Full-Scale Projects:** Developing innovative applications that address complex security challenges and drive research forward.
+
+### 🤝 Team Events: Grow Together
+Learning is a continuous journey. We organize engaging internal events to foster growth and camaraderie:
+* **Focused Sessions:** Deep dives into specific security topics.
+* **Study Groups:** Collaborative learning environments for certifications and advanced concepts.
+* **Informal Hacking Hangouts:** Casual sessions for sharing knowledge, experimenting, and having fun!
 
 ---
 
-<p align="center">
-  <strong>RaptX</strong> — Built on curiosity. Fueled by chaos. Driven by mastery.
-</p>
+## 🔑 Why RaptX? Our Core Values
+
+We are more than just a team; we are a force united by a shared vision.
+
+### 🤝 Tight-Knit Team Culture: Trust & Ambition
+We operate as a small, highly reliable group. Our strength comes from:
+* **Unwavering Trust:** Empowering each member to excel.
+* **Shared Passion:** A collective drive for cybersecurity excellence.
+* **Mutual Ambition:** Pushing boundaries together.
+
+### 🌱 Long-Term Fulfillment: Crafting Careers
+We are committed to empowering our members to build lasting, fulfilling careers in cybersecurity, doing what they genuinely love. Your growth is our priority.
+
+### ⚡ Brutal Efficiency: Impact-Driven Innovation
+We focus on results. Our approach is:
+* **Lean & Adaptable:** Quick to pivot and optimize.
+* **Measurable Impact:** Solutions that deliver tangible, real-world value.
+* **Problem-Solving:** Directly addressing challenges with effective strategies.
+
+---
+
+## 🚀 Join the Mission
+
+Ready to elevate your cybersecurity journey?
+* Explore our [repositories](https://github.com/RaptX-Org)!
+* Check out our latest [CTF writeups](https://github.com/RaptX-Org/writeups)! (Assuming you have a writeups repo)
+* **Want to collaborate or learn more?** Reach out to us via [email](mailto:your_email@example.com) or connect on [Discord](YOUR_DISCORD_INVITE_LINK) (if applicable).
+
+---
+
+<div align="center">
+  <p>Follow us for the latest updates and breakthroughs!</p>
+  <p>
+    <a href="https://twitter.com/your_twitter_handle">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://linkedin.com/company/your_linkedin_company">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+  <p>Made with ❤️ by RaptX</p>
+</div>

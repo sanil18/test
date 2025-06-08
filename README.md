@@ -1,7 +1,8 @@
 <!-- 🎬 Hero Banner -->
 <p align="center">
-  <img src="raptx.png" alt="RaptX Banner" width="100%" />
+  <img src="raptx.png" alt="RaptX Banner" width="800px" />
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE5&center=true&width=700&lines=RaptX:+Cybersecurity+Collaboration+%26+CTF+Excellence" alt="Typing Header" />

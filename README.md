@@ -1,6 +1,6 @@
 <!-- 🎬 Hero Banner -->
 <p align="center">
-  <img src="https://your-banner.gif" alt="RaptX Banner" width="100%" />
+  <img src="raptx.png" alt="RaptX Banner" width="100%" />
 </p>
 
 <h1 align="center">

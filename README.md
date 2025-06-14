@@ -1,4 +1,4 @@
-<!-- 🎬 Hero Banner -->
+ <!-- 🎬 Hero Banner -->
 <p align="center">
   <img src="raptx.png" alt="RaptX Banner" width="400px" />
 </p>
@@ -20,62 +20,49 @@
 
 ## 🧬 Who We Are
 
-**RaptX** is a high-performance cybersecurity team composed of offensive security professionals and elite CTF players. We're a global community where hackers grow together — through competition, collaboration, and continuous learning.
+**RaptX** is a high-performance cybersecurity team composed of cybersecurity professionals, ethical hackers, and CTF players. We're a global community where individuals grow together — through competition, collaboration, and continuous learning.
 
-We believe in a strong team culture rooted in trust, mastery, and drive. Every member of RaptX brings something unique, and together we build, break, and secure systems while advancing the frontiers of ethical hacking.
+We believe in a strong team culture rooted in trust, mastery, and drive. Every member brings something unique, and together we push the boundaries of ethical hacking.
 
 ---
 
 ## 🌟 What We Do
 
-At our core, we’re a **community of learners and builders**. We guide and grow together through:
+At our core, we’re a **community of learners and builders**. We grow together through:
 
-- 💥 **CTF Competitions**: Competing in top-tier events on CTFtime and HackTheBox.
-- 🛠️ **In-house Tools**: Developing custom penetration testing and red team tools.
-- 🧠 **Knowledge Sharing**: Hosting sessions, writeups, and internal mentorship.
-- 🔍 **CVE Research**: Engaging in vulnerability discovery and exploit development.
-- 🔗 **Real-World Security**: Applying advanced offensive skills to solve real security challenges.
+- 💥 Competing in CTFs alongside the world’s best.
+- 🛠 Developing custom tools for penetration testing and vulnerability research.
+- 🧑‍🏫 Providing mentoring, training, and knowledge-sharing sessions.
+- 🔍 Staying at the cutting edge of vulnerability discovery and exploit development.
+- 🔒 Applying our skills to solve real-world security problems.
 
-Our goal is simple: **Stay sharp, stay fast, stay dangerous — together.**
-
----
-
-## 🚀 Featured Projects
-
-| 🔧 Project         | 💬 Description                                                                 | 🚦 Status   |
-|-------------------|---------------------------------------------------------------------------------|-------------|
-| 🕵️‍♂️ **LFI Scanner**     | Fast recursive scanner for detecting LFI bugs in web apps.                        | ✅ Live      |
-| 🔐 **CryptoCTF Gen** | Weak RNG + Caesar + XOR CBC-like challenge generator for crypto CTFs.         | 🛠️ In Dev   |
-| 🧾 **PDF Diff Tool**   | Secure doc diffing tool with grammar check + Excel export — made for KL teams. | ✅ Beta      |
-| ⚙️ **AutoReconX**     | Recon pipeline for bug bounty + CTF, with smart modules and custom plugins.    | 🚧 Coming Soon |
-
-> Want to contribute or share a tool? [Open a PR or contact us.](mailto:raptx@protonmail.com)
+**Stay sharp, stay fast, stay dangerous — together.**
 
 ---
 
 ## 🧠 Our Values
 
-- 🤝 **Tight-Knit Culture**: Low ego, high signal. We win as a unit.
-- 🎯 **Real-World Impact**: Tools and tactics that work outside of labs.
-- 📈 **Growth Obsessed**: Learn fast, fail smart, and evolve constantly.
-- 🔒 **Ethics First**: All work is guided by strong principles and purpose.
+- 🤝 **Tight-Knit Culture** — Low ego, high signal. We win as a team.
+- 🎯 **Real-World Impact** — Tools and tactics that make a measurable difference.
+- 📈 **Growth Obsessed** — Learn fast, fail smart, and constantly improve.
+- 🔒 **Ethics First** — All operations are guided by strong ethical principles.
 
 ---
 
 ## 📫 Reach Out
 
-We're always open to collabs, contributions, and connecting with fellow hackers.
+We’re always open to collaborations, contributions, and connecting with fellow hackers.
 
 - 📧 **Email**: [raptx@protonmail.com](mailto:raptx@protonmail.com)
 - 🌐 **CTFtime**: [ctftime.org/team/xxxx](https://ctftime.org/team/xxxx)
-- 🛡️ **HackTheBox**: [hackthebox.com/teams/raptx](https://hackthebox.com/teams/raptx)
-- 📝 **Writeups/Blog**: Coming soon
+- 🛡 **HackTheBox**: [hackthebox.com/teams/raptx](https://hackthebox.com/teams/raptx)
+- 📝 **Write-ups/Blog**: Coming soon
 - 💬 **Discussions**: [Join us on GitHub](https://github.com/orgs/raptx/discussions)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=Built+on+Skill.;Forged+in+CTFs.;Driven+by+Purpose." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00FFC6&center=true&vCenter=false&width=700&lines=Built+on+Skill.;Forged+in+CTFs.;Driven+by+Purpose." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -83,5 +70,5 @@ We're always open to collabs, contributions, and connecting with fellow hackers.
 </p>
 
 <p align="center">
-  <strong>🛡️ RaptX — Not just a team. A movement.</strong>
-</p>
+  <strong>🛡 RaptX — Not just a team. A movement.</strong>
+</p>  

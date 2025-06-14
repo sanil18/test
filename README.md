@@ -30,11 +30,11 @@ We believe in a strong team culture rooted in trust, mastery, and drive. Every m
 
 At our core, we’re a **community of learners and builders**. We grow together through:
 
-- 💥 Competing in CTFs alongside the world’s best.
-- 🛠 Developing custom tools for penetration testing and vulnerability research.
-- 🧑‍🏫 Providing mentoring, training, and knowledge-sharing sessions.
-- 🔍 Staying at the cutting edge of vulnerability discovery and exploit development.
-- 🔒 Applying our skills to solve real-world security problems.
+-  Competing in CTFs alongside the world’s best.
+-  Developing custom tools for penetration testing and vulnerability research.
+-  Providing mentoring, training, and knowledge-sharing sessions.
+-  Staying at the cutting edge of vulnerability discovery and exploit development.
+-  Applying our skills to solve real-world security problems.
 
 **Stay sharp, stay fast, stay dangerous — together.**
 
@@ -42,10 +42,10 @@ At our core, we’re a **community of learners and builders**. We grow together 
 
 ## 🧠 Our Values
 
-- 🤝 **Tight-Knit Culture** — Low ego, high signal. We win as a team.
-- 🎯 **Real-World Impact** — Tools and tactics that make a measurable difference.
-- 📈 **Growth Obsessed** — Learn fast, fail smart, and constantly improve.
-- 🔒 **Ethics First** — All operations are guided by strong ethical principles.
+-  **Tight-Knit Culture** — Low ego, high signal. We win as a team.
+-  **Real-World Impact** — Tools and tactics that make a measurable difference.
+-  **Growth Obsessed** — Learn fast, fail smart, and constantly improve.
+-  **Ethics First** — All operations are guided by strong ethical principles.
 
 ---
 

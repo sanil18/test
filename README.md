@@ -1,20 +1,17 @@
- <!-- 🎬 Hero Banner -->
 <p align="center">
   <img src="raptx.png" alt="RaptX Banner" width="400px" />
 </p>
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE5&center=false&width=700&lines=RaptX:+Hack+the+Impossible,+Defend+the+Unstoppable" alt="Typing Header" />
 </h1>
-
 
 <p align="center">
   <strong>Elite Offensive Security Team</strong><br/>
   <img src="https://img.shields.io/badge/Founded-2023-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/CTFtime-Ranked%20%2337-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/HackTheBox-Top%2030-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Members-Ethical%20Hackers-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Members-Cybersecurity%20Einthusiasts-informational?style=flat-square" />
 </p>
 
 ---

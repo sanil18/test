@@ -5,8 +5,9 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE5&center=false&width=700&lines=RaptX:+Cybersecurity+Collaboration+%26+CTF+Excellence" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE5&center=false&width=700&lines=Hack+the+Impossible%2C+Defend+the+Unstoppable" alt="Typing Header" />
 </h1>
+
 
 <p align="center">
   <strong>Elite Offensive Security Team</strong><br/>

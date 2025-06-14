@@ -68,5 +68,5 @@ Reach out to us at: [contact@raptx.org](mailto:contact@raptx.org)
 ---
 
 <p align="center">
-  <strong>🛡 Hack the Impossible, Defend the Unstoppable </strong>
+  <strong>🛡 Security Is Our Playground — Come Play, Learn, and Contribute! </strong>
 </p>  

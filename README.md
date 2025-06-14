@@ -67,9 +67,5 @@ Reach out to us at: [contact@raptx.org](mailto:contact@raptx.org)
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00FFC6&center=false&vCenter=false&width=700&lines=Built+on+Skill.;Forged+in+CTFs.;Driven+by+Purpose." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <strong>🛡 RaptX — Not just a team. A movement.</strong>
+  <strong>🛡 Hack the Impossible, Defend the Unstoppable </strong>
 </p>  

@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE5&center=false&width=900&lines=RaptX:+Hack+the+Impossible,+Defend+the+Unstoppable" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFE5&center=false&width=100&lines=RaptX:+Hack+the+Impossible,+Defend+the+Unstoppable" alt="Typing Header" />
 </h1>
 
 <p align="center">

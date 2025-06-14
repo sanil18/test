@@ -71,9 +71,5 @@ Reach out to us at: [contact@raptx.org](mailto:contact@raptx.org)
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
   <strong>🛡 RaptX — Not just a team. A movement.</strong>
 </p>  
